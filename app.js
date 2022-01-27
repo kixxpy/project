@@ -1,9 +1,9 @@
-"use strict";
+// "use strict";
 
-let num = 50;
+// let num = 50;
 
-while (num<=55) {
-    num++;
-    console.log(num);
+// while (num<=55) {
+//     num++;
+//     console.log(num);
     
-}
+// }
